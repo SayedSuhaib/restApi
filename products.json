@@ -1,0 +1,272 @@
+[
+    {
+        "product_id" : 2,
+        "product_title" : "Life Insurance",
+        "dataLinks" : {
+            "lifeInsurance" : {
+                "title" : "Life Insurance",
+                "url" : "https://www.insurancedekho.com/life-insurance"
+            },
+            "quotes" : {
+                "title" : "Quotes",
+                "url" : "https://www.insurancedekho.com/life-insurance/premium"
+            },
+            "hlvCalculator" : {
+                "title" : "HLV Calculator",
+                "url" : "https://www.insurancedekho.com/life-insurance/human-life-value"
+            },
+            "documentsRequired" : {
+                "title" : "Documents Required",
+                "url" : "https://www.insurancedekho.com/life-insurance/documents-required"
+            },
+            "plans" : {
+                "title" : "Plans",
+                "url" : "https://www.insurancedekho.com/life-insurance/plans"
+            },
+            "premium" : {
+                "title" : "Premium",
+                "url" : "https://www.insurancedekho.com/life-insurance/premium"
+            },
+            "PremiumCalculator" : {
+                "title" : "Premium Calculator",
+                "url" : "https://www.insurancedekho.com/life-insurance/premium-calculator"
+            },
+            "advisorsInBangalore" : {
+                "title" : "Advisors in Bangalore",
+                "url" : "https://www.insurancedekho.com/insurance-advisors/insurance-advisor+in-bangalore"
+            },
+            "pmjjby" : {
+                "title" : "PMJJBY",
+                "url" : "https://www.insurancedekho.com/life-insurance/pradhan-mantri-jeevan-jyoti-bima"
+            },
+            "postalLifeInsurance" : {
+                "title" : "Postal Life Insurance",
+                "url" : "https://www.insurancedekho.com/life-insurance/postal"
+            },
+            "benefits" : {
+                "title" : "Benefits",
+                "url" : "https://www.insurancedekho.com/life-insurance/benefits"
+            },
+            "news" : {
+                "title" : "News",
+                "url" : "https://www.insurancedekho.com/life-insurance/news"
+            },
+            "advisorsInMumbai" : {
+                "title" : "Advisors in Mumbai",
+                "url" : "https://www.insurancedekho.com/insurance-advisors/insurance-advisor+in-mumbai"
+            },
+            "humanLifeValueCalculator" : {
+                "title" : "Human Life Value Calculator",
+                "url" : "https://www.insurancedekho.com/life-insurance/human-life-value"
+            },
+            "termVsLifeInsurance" : {
+                "title" : "Term vs Life Insurance",
+                "url" : "https://www.insurancedekho.com/life-insurance/life-insurance-vs-term-insurance"
+            },
+            "coverage" : {
+                "title" : "Coverage",
+                "url" : "https://www.insurancedekho.com/life-insurance/coverage"
+            },
+            "companies" : {
+                "title" : "Companies",
+                "url" : "https://www.insurancedekho.com/life-insurance/companies"
+            },
+            "advisorsInKolkata" : {
+                "title" : "Advisors in Kolkata",
+                "url" : "https://www.insurancedekho.com/insurance-advisors/insurance-advisor+in-kolkata"
+            },
+            "revivalPeriod" : {
+                "title" : "Revival Period",
+                "url" : "https://www.insurancedekho.com/life-insurance/revival-period"
+            },
+            "taxBenefits" : {
+                "title" : "Tax Benefits",
+                "url" : "https://www.insurancedekho.com/life-insurance/tax-benefits"
+            },
+            "claimSettlementRatio" : {
+                "title" : "Claim Settlement Ratio",
+                "url" : "https://www.insurancedekho.com/life-insurance/claim-settlement"
+            },
+            "maxLifeInsurance" : {
+                "title" : "Max Life Insurance",
+                "url" : "https://www.insurancedekho.com/life-insurance/max"
+            },
+            "advisorsInHyderabad" : {
+                "title" : "Advisors in Hyderabad",
+                "url" : "https://www.insurancedekho.com/insurance-advisors/insurance-advisor+in-hyderabad"
+            },
+            "endorsement" : {
+                "title" : "Endorsement",
+                "url" : "https://www.insurancedekho.com/life-insurance/endorsement"
+            }
+        }
+    },
+    {
+        "product_id" : 3,
+        "product_title" : "Term Insurance",
+        "dataLinks" : {
+            "termInsurance" : {
+                "title" : "Term Insurance",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance"
+            },
+            "premiumCalculator" : {
+                "title" : "Premium Calculator",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/premium-calculator"
+            },
+            "family" : {
+                "title" : "Family",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/family"
+            },
+            "riders" : {
+                "title" : "Riders",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/riders"
+            },
+            "oneCrore" : {
+                "title" : "1 Crore",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/1-crore"
+            },
+            "plans" : {
+                "title" : "Plans",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/plans"
+            },
+            "companies" : {
+                "title" : "Companies",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/companies"
+            },
+            "nri" : {
+                "title" : "NRI",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/nri"
+            },
+            "criticalIllness" : {
+                "title" : "Critical Illness",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/riders/critical-illness"
+            },
+            "twoCrore" : {
+                "title" : "2 Crore",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/2-crore"
+            },
+            "taxBenefits" : {
+                "title" : "Tax Benefits",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/tax-benefit"
+            },
+            "news" : {
+                "title" : "News",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/news/"
+            },
+            "spouse" : {
+                "title" : "Spouse",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/spouse"
+            },
+            "accidentalDeathBenefit" : {
+                "title" : "Accidental Death Benefit",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/riders/accidental-death-benefit"
+            },
+            "fiveCrore" : {
+                "title" : "5 Crore",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/5-crore"
+            },
+            "claimSettlementRatio" : {
+                "title" : "Claim Settlement Ratio",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/claim-settlement"
+            },
+            "benefits" : {
+                "title" : "Benefits",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/benefits"
+            },
+            "seniorCitizen" : {
+                "title" : "Senior Citizen",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/senior-citizen"
+            },
+            "accidentalDisabilityBenefit" : {
+                "title" : "Accidental Disability Benefit",
+                "url" : "https://www.insurancedekho.com/life-insurance/term-insurance/riders/accidental-disability-benefit"
+            }
+        }
+    },
+    {
+        "product_id" : 4,
+        "product_title" : "Investment Insurance",
+        "dataLinks" : {
+            "investments" : {
+                "title" : "Investments",
+                "url" : "https://www.insurancedekho.com/investment"
+            },
+            "news" : {
+                "title" : "News",
+                "url" : "https://www.insurancedekho.com/investment/news"
+            },
+            "recurringDeposit" : {
+                "title" : "Recurring Deposit",
+                "url" : "https://www.insurancedekho.com/investment/recurring-deposit"
+            },
+            "postOfficeSchemes" : {
+                "title" : "Post Office Schemes",
+                "url" : "https://www.insurancedekho.com/investment/post-office-schemes"
+            },
+            "taxSavingInvestment" : {
+                "title" : "Tax Saving Investment",
+                "url" : "https://www.insurancedekho.com/investment/best-tax-saving-investment"
+            },
+            "bestInvesmtentPlans" : {
+                "title" : "Best Investment Plans",
+                "url" : "https://www.insurancedekho.com/investment/plans"
+            },
+            "moneyBackPolicy" : {
+                "title" : "Money Back Policy",
+                "url" : "https://www.insurancedekho.com/investment/plans/money-back"
+            },
+            "lumpsumCalculator" : {
+                "title" : "Lump Sum Calculator",
+                "url" : "https://www.insurancedekho.com/investment/lump-sum-calculator"
+            },
+            "sukanyaSamriddhiYojana" : {
+                "title" : "Sukanya Samriddhi Yojana",
+                "url" : "https://www.insurancedekho.com/investment/sukanya-samriddhi-yojana"
+            },
+            "taxSavingFixedDeposit" : {
+                "title" : "Tax Saving Fixed Deposit",
+            "url" : "https://www.insurancedekho.com/investment/fixed-deposit/fd-tax-saving"
+            },
+            "ulip" : {
+                "title" : "ULIP",
+                "url" : "https://www.insurancedekho.com/investment/plans/ulip"
+            },
+            "nationalPensionSystem" : {
+                "title" : "National Pension System",
+                "url" : "https://www.insurancedekho.com/investment/national-pension-system"
+            },
+            "sipCalculator" : {
+                "title" : "SIP Calculator",
+                "url" : "https://www.insurancedekho.com/investment/sip-calculator"
+            },
+            "nationalSavingsCertificate" : {
+                "title" : "National Savings Certificate",
+            "url" : "https://www.insurancedekho.com/investment/national-savings-certificate"
+            },
+            "sectionTen" : {
+                "title" : "Section 10 (10D)",
+                "url" : "https://www.insurancedekho.com/investment/best-tax-saving-investment/section-10-10d"
+            },
+            "companies" : {
+                "title" : "Companies",
+                "url" : "https://www.insurancedekho.com/investment/companies"
+            },
+            "publicProvidentFund" : {
+                "title" : "Public Provident Fund",
+                "url" : "https://www.insurancedekho.com/investment/public-provident-fund"
+            },
+            "fixedDeposits" : {
+                "title" : "Fixed Deposits",
+                "url" : "https://www.insurancedekho.com/investment/fixed-deposit"
+            },
+            "fdCalculator" : {
+                "title" : "FD Calculator",
+                "url" : "https://www.insurancedekho.com/investment/fixed-deposit/fd-calculator"
+            },
+            "eightyCDeductions" : {
+                "title" : "80C Deductions",
+                "url" : "https://www.insurancedekho.com/investment/80c-deductions"
+            }
+        }
+    }
+]
